@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Ada Lovelace",
+      "number": "09-12345678",
+      "id": 1
+    },
+    {
+      "name": "Tommy Shelby",
+      "number": "09-98765432",
+      "id": 2
+    },
+    {
+      "name": "Bobby Axelrod",
+      "number": "08-12983476",
+      "id": 3
+    }
+  ]
+}
